@@ -38,7 +38,6 @@
 #     'minimum_amount_required': 10.00
 #    }
 # ]
-# ehiroshige@plaid.com
 
 class Item:
     def __init__(self, price, category):
